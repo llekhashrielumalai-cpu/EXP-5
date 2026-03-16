@@ -30,10 +30,13 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
-
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-5/3c341288e60de893d379ab730f2161fa294c36a8/5.1.jpeg
+)
 V-I & REGULATION CHARACTERISTICS:
-
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-5/3c341288e60de893d379ab730f2161fa294c36a8/5.2.jpeg
+)
 PRECAUTIONS:
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-5/3c341288e60de893d379ab730f2161fa294c36a8/5.3.jpeg)
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
